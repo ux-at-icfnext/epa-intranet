@@ -1,5 +1,5 @@
 ---
-layout: proto/basic
+layout: left-rail
 categories: [prototype]
 title: Sample Prototype Page
 type: [sub-nav-item, prototype]
